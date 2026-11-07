@@ -1,0 +1,3 @@
+# Preserve the package-private superclass relationship during scoped R8 optimization.
+-keep,allowshrinking,allowoptimization class kotlin.collections.CollectionsKt__IterablesKt
+-keep,allowshrinking,allowoptimization class kotlin.collections.CollectionsKt__MutableCollectionsJVMKt

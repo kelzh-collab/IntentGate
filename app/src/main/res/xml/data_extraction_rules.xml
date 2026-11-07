@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <!-- Allow only the language preference for each transfer mode. -->
+    <cloud-backup>
+        <include domain="sharedpref" path="app_language.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="sharedpref" path="app_language.xml" />
+    </device-transfer>
+</data-extraction-rules>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">IntentGate</string>
+    <string name="ig_apps" formatted="false">应用</string>
+    <string name="ig_managed_paused">%1$s 个管理中 · %2$s 个已暂停</string>
+    <string name="ig_search_your_apps" formatted="false">搜索应用</string>
+    <string name="ig_your_apps" formatted="false">我的应用</string>
+    <string name="ig_today" formatted="false">今日</string>
+    <string name="ig_no_apps_added_yet" formatted="false">尚未添加管理应用</string>
+    <string name="ig_no_matching_apps" formatted="false">没有匹配的应用</string>
+    <string name="ig_choose_an_app_to_manage" formatted="false">选择要管理的应用。</string>
+    <string name="ig_try_a_different_app_name" formatted="false">试试其他应用名称。</string>
+    <string name="ig_add_app" formatted="false">添加应用</string>
+    <string name="ig_tap_an_app_to_edit_its_daily_limit_and_intent_checks" formatted="false">点按应用，设置每日限额与意图检查。</string>
+    <string name="ig_not_installed" formatted="false">未安装</string>
+    <string name="ig_min_today">今日 %1$s 分钟</string>
+    <string name="ig_usage_unavailable" formatted="false">使用数据不可用</string>
+    <string name="ig_managed" formatted="false">管理中</string>
+    <string name="ig_paused" formatted="false">已暂停</string>
+    <string name="ig_manage">管理 %1$s</string>
+    <string name="ig_app_details" formatted="false">应用详情</string>
+    <string name="ig_management" formatted="false">管理设置</string>
+    <string name="ig_app_management" formatted="false">应用管理</string>
+    <string name="ig_pause_or_resume_this_app" formatted="false">暂停或继续管理此应用。</string>
+    <string name="ig_daily_limit" formatted="false">每日限额</string>
+    <string name="ig_min">%1$s 分钟</string>
+    <string name="ig_today_total_m_extension">今日限额 %1$s · 已延长 %2$s 分钟</string>
+    <string name="ig_across_all_sessions_today" formatted="false">适用于今日所有使用时段。</string>
+    <string name="ig_custom" formatted="false">自定义</string>
+    <string name="ig_intent_check" formatted="false">意图检查</string>
+    <string name="ig_ask_for_a_purpose_before_each_session" formatted="false">每次使用前先确认目的。</string>
+    <string name="ig_changes_apply_to_future_sessions" formatted="false">更改将在后续会话中生效。</string>
+    <string name="ig_save_changes" formatted="false">保存更改</string>
+    <string name="ig_view_usage" formatted="false">查看用量</string>
+    <string name="ig_extend_today" formatted="false">延长今日限额</string>
+    <string name="ig_unable_to_extend_refresh_usage_access_and_try_again" formatted="false">无法延长。请检查使用情况访问权限后重试。</string>
+    <string name="ig_today_33">%1$s · 今日</string>
+    <string name="ig_daily_limit_extensions_apply_today_only">%1$s · 每日限额 %2$s。延长时间仅今日有效。</string>
+    <string name="ig_no_real_limit_estimate_is_available" formatted="false">暂无真实用量，无法估算剩余额度。</string>
+    <string name="ig_android_foreground_usage_only_reminders_may_be_delayed_while_i" formatted="false">仅统计 Android 前台使用时间。IntentGate 在后台时，提醒可能延迟。</string>
+    <string name="ig_close" formatted="false">关闭</string>
+    <string name="ig_daily_limit_resets_at_midnight" formatted="false">每日统计范围在午夜更新。\n</string>
+    <string name="ig_sample_usage_shown_for_design_review" formatted="false">用于设计演示的示例数据。</string>
+    <string name="ig_only_foreground_usage_is_counted" formatted="false">仅统计前台使用时间。</string>
+    <string name="ig_known_app_catalog" formatted="false">已知应用列表</string>
+    <string name="ig_search_available_apps" formatted="false">搜索可添加的应用</string>
+    <string name="ig_all_known_apps_are_already_added" formatted="false">已添加所有已知应用。</string>
+    <string name="ig_no_matching_apps_44" formatted="false">没有匹配的应用。</string>
+    <string name="ig_minutes" formatted="false">分钟</string>
+    <string name="ig_choose_1_1440_minutes" formatted="false">请输入 1–1440 分钟。</string>
+    <string name="ig_cancel" formatted="false">取消</string>
+    <string name="ig_open_details">打开 %1$s 详情</string>
+    <string name="ig_back_to_apps" formatted="false">返回应用列表</string>
+    <string name="ig_edit_daily_limit" formatted="false">编辑每日限额</string>
+    <string name="ig_extend" formatted="false">延长</string>
+    <string name="ig_clear_search" formatted="false">清除搜索</string>
+    <string name="ig_add">添加 %1$s</string>
+    <string name="ig_intentgate" translatable="false" formatted="false">IntentGate</string>
+    <string name="ig_simulated_event_ui_test" formatted="false">模拟事件 · 界面测试</string>
+    <string name="ig_a_moment_of_intention" formatted="false">先明确使用目的</string>
+    <string name="ig_what_are_you_here_to_do" formatted="false">这次打开应用，\n你想做什么？</string>
+    <string name="ig_choose_a_purpose_before_you_begin" formatted="false">开始前，先选择一个目的。</string>
+    <string name="ig_your_purpose" formatted="false">输入使用目的</string>
+    <string name="ig_how_much_time_do_you_need" formatted="false">预计需要多长时间？</string>
+    <string name="ig_minutes_1_1440" formatted="false">分钟 · 1–1440</string>
+    <string name="ig_today_remaining_of">今日剩余 %1$s，总限额 %2$s</string>
+    <string name="ig_start_session" formatted="false">开始使用</string>
+    <string name="ig_unable_to_start_check_usage_access_and_app_management_then_try" formatted="false">无法开始。请检查使用情况访问权限与应用管理设置后重试。</string>
+    <string name="ig_enable_check_notifications" formatted="false">开启检查通知</string>
+    <string name="ig_only_confirmed_target_app_foreground_time_counts_background_de" formatted="false">仅扣除确认的目标应用前台时间。后台检测并非持续运行。</string>
+    <string name="ig_session_ended" formatted="false">会话已结束</string>
+    <string name="ig_time_s_up" formatted="false">时间到</string>
+    <string name="ig_session_controls" formatted="false">会话控制</string>
+    <string name="ig_youtube_drawing_lesson" formatted="false">YouTube · 绘画课程</string>
+    <string name="ig_remaining">剩余 %1$s</string>
+    <string name="ig_this_preview_uses_a_simulated_target_app_session_it_pauses_whe" formatted="false">这是模拟的目标应用会话。离开 IntentGate 时会暂停，真实目标应用跟踪尚未接入。</string>
+    <string name="ig_pause" formatted="false">暂停</string>
+    <string name="ig_continue" formatted="false">继续</string>
+    <string name="ig_end_session" formatted="false">结束会话</string>
+    <string name="ig_mark_intent_completed" formatted="false">标记意图已完成</string>
+    <string name="ig_start_a_new_30_minute_session" formatted="false">开始新的 30 分钟会话</string>
+    <string name="ig_done" formatted="false">完成</string>
+    <string name="ig_demo_intent_record" formatted="false">演示意图记录</string>
+    <string name="ig_intent_foreground_use" formatted="false">意图会话前台用时</string>
+    <string name="ig_youtube_drawing_lesson_demo" formatted="false">YouTube · 绘画课程 · 演示</string>
+    <string name="ig_today_sessions">今日：%1$s · %2$s 次会话</string>
+    <string name="ig_today_83">今日：%1$s · %2$s</string>
+    <string name="ig_intent_sessions">%1$s 次意图会话</string>
+    <string name="ig_intent_sessions_85" formatted="false">意图会话：—</string>
+    <string name="ig_settings_usage_access" formatted="false"> · 设置 &gt; 使用情况访问</string>
+    <string name="ig_paused_foreground_time_only" formatted="false">已暂停 · 仅计前台用时</string>
+    <string name="ig_foreground_time_only" formatted="false">仅计前台用时</string>
+    <string name="ig_today_s_intentions" formatted="false">今日使用意图</string>
+    <string name="ig_view_all" formatted="false">查看全部</string>
+    <string name="ig_demo_intent_records_latest_3" formatted="false">演示意图记录 · 最近 3 次</string>
+    <string name="ig_latest_3_sessions" formatted="false">最近 3 次会话</string>
+    <string name="ig_remaining_93" formatted="false">剩余时间</string>
+    <string name="ig_of_min">共 %1$s 分钟</string>
+    <string name="ig_demo" formatted="false"> · 演示</string>
+    <string name="ig_demo_intent_records" formatted="false">演示意图记录</string>
+    <string name="ig_this_page_is_coming_next" formatted="false">此页面即将推出。</string>
+    <string name="ig_back_to_home" formatted="false">返回首页</string>
+    <string name="ig_view_all_intentions" formatted="false">查看全部意图记录</string>
+    <string name="ig_open_session_controls" formatted="false">打开会话控制</string>
+    <string name="ig_remaining_of_minutes">%1$s。剩余 %2$s，总时长 %3$s 分钟</string>
+    <string name="ig_settings" formatted="false">设置</string>
+    <string name="ig_your_preferences_on_this_device" formatted="false">偏好设置，仅保存在此设备。</string>
+    <string name="ig_preferences" formatted="false">偏好设置</string>
+    <string name="ig_notifications" formatted="false">通知</string>
+    <string name="ig_daily_reminders" formatted="false">每日提醒</string>
+    <string name="ig_dark_mode" formatted="false">深色模式</string>
+    <string name="ig_coming_soon" formatted="false">即将推出</string>
+    <string name="ig_language" formatted="false">语言</string>
+    <string name="ig_english" translatable="false" formatted="false">English</string>
+    <string name="ig_focus_settings" formatted="false">专注设置</string>
+    <string name="ig_default_daily_limit" formatted="false">默认每日限额</string>
+    <string name="ig_intent_check_enabled" formatted="false">启用意图检查</string>
+    <string name="ig_strict_mode" formatted="false">严格模式</string>
+    <string name="ig_break_allowance" formatted="false">休息时长</string>
+    <string name="ig_permissions_data" formatted="false">权限与数据</string>
+    <string name="ig_usage_access" formatted="false">使用情况访问</string>
+    <string name="ig_connected" formatted="false">已连接</string>
+    <string name="ig_notification_permission" formatted="false">通知权限</string>
+    <string name="ig_allowed" formatted="false">已允许</string>
+    <string name="ig_not_granted" formatted="false">未授权</string>
+    <string name="ig_data_source" formatted="false">数据来源</string>
+    <string name="ig_demo_data" formatted="false">演示数据</string>
+    <string name="ig_android_usagestats" formatted="false">Android 使用统计</string>
+    <string name="ig_export_data" formatted="false">导出数据</string>
+    <string name="ig_about" formatted="false">关于</string>
+    <string name="ig_app_version" formatted="false">应用版本</string>
+    <string name="ig_privacy_policy" formatted="false">隐私政策</string>
+    <string name="ig_help_feedback" formatted="false">帮助／反馈</string>
+    <string name="ig_daily_limit_reminders_use_android_foreground_usage_and_may_be_" formatted="false">每日限额提醒基于 Android 前台使用数据，后台提醒可能延迟。严格模式和定时提醒仍为本地偏好占位。</string>
+    <string name="ig_english_is_currently_available_more_languages_are_coming_soon" formatted="false">当前支持 English 与简体中文。</string>
+    <string name="ig_export_is_coming_soon_system_usage_export_is_not_implemented_y" formatted="false">数据导出即将推出，系统用量导出暂未实现。</string>
+    <string name="ig_the_full_privacy_policy_is_coming_soon_preferences_stay_local_" formatted="false">使用情况访问权限用于读取 Android 应用使用记录，支持统计、限额和会话计时。关闭后，统计无法读取系统用量，基于前台记录的计时会暂停。\n\n无障碍服务用于检测应用切换、在后台显示意图确认及到期弹窗，并在你点击结束使用时返回桌面。关闭后，这项后台检测和无障碍悬浮窗将停用。\n\n在其他应用上层显示权限用于在无障碍悬浮窗不可用时显示到期确认。两种悬浮窗都不可用时，可通过通知接收到期提醒。通知还用于意图确认和限额提醒，关闭通知后将不再收到这些通知。\n\n管理名单、你填写的用途、会话、限额及授权同意状态保存在本机。本版本的 Android 云备份和设备迁移规则仅允许备份语言偏好。</string>
+    <string name="ig_usage_settings_unavailable" formatted="false">无法打开使用权限设置</string>
+    <string name="ig_no_system_usage_access_settings_screen_is_available_on_this_de" formatted="false">此设备未提供使用情况访问设置页面。</string>
+    <string name="ig_help_and_feedback_are_coming_soon_no_message_will_be_sent_from" formatted="false">帮助与反馈即将推出，本演示不会发送任何消息。</string>
+    <string name="ig_stats" formatted="false">统计</string>
+    <string name="ig_usage_overview" formatted="false">使用概览</string>
+    <string name="ig_sessions">会话 · %1$s 次</string>
+    <string name="ig_intent_sessions_not_tracked" formatted="false">意图会话 · 尚未记录</string>
+    <string name="ig_days_available"> · 可用 %1$s/%2$s 天</string>
+    <string name="ig_usage_trends" formatted="false">使用趋势</string>
+    <string name="ig_m">%1$s分</string>
+    <string name="ig_intent_insights" formatted="false">意图洞察</string>
+    <string name="ig_intents_completed" formatted="false">已完成意图</string>
+    <string name="ig_completion_not_recorded" formatted="false">尚未记录完成情况</string>
+    <string name="ig_unfinished_active">未完成 %1$s · 进行中 %2$s</string>
+    <string name="ig_requires_explicit_session_outcomes" formatted="false">需要明确记录会话结果</string>
+    <string name="ig_without_intent">%1$s 次未设意图</string>
+    <string name="ig_app_usage_breakdown" formatted="false">应用使用分布</string>
+    <string name="ig_no_usage_recorded" formatted="false">暂无使用记录</string>
+    <string name="ig_unavailable" formatted="false">不可用</string>
+    <string name="ig_intent_completion" formatted="false">意图完成率</string>
+    <string name="ig_app_usage_distribution" formatted="false">应用使用分布</string>
+    <string name="ig_android_data" formatted="false">Android 数据</string>
+    <string name="ig_access_needed" formatted="false">需要授权</string>
+    <string name="ig_unlock_device" formatted="false">请解锁设备</string>
+    <string name="ig_no_system_records" formatted="false">暂无系统记录</string>
+    <string name="ig_loading_usage" formatted="false">正在读取用量</string>
+    <string name="ig_h_m">%1$s小时%2$s分</string>
+    <string name="ig_demo_data_no_real_limit_status" formatted="false">演示数据 · 无真实限额状态</string>
+    <string name="ig_usage_access_required" formatted="false">需要使用情况访问权限</string>
+    <string name="ig_refreshing_today_s_usage" formatted="false">正在刷新今日用量</string>
+    <string name="ig_limit_reached" formatted="false">已达限额</string>
+    <string name="ig_used_left">已用 %1$s · 剩余 %2$s · %3$s%%</string>
+    <string name="ig_0m" formatted="false">0分</string>
+    <string name="ig_s">%1$s秒</string>
+    <string name="ig_daily_remaining_time_is_unavailable_no_real_usage_estimate_can" formatted="false">暂无今日真实用量，无法估算剩余限额。</string>
+    <string name="ig_selected_session_exceeds_today_s_remaining_limit_you_may_adjus">所选时长超过今日剩余额度（%1$s）。可调整或延长限额；开始会话不会自动增加限额。</string>
+    <string name="ig_no_selected_apps_installed" formatted="false">未安装所选应用</string>
+    <string name="ig_limited_system_history" formatted="false">系统记录不完整</string>
+    <string name="ig_selected_apps_android_foreground_events" formatted="false">所选应用 · Android 前台事件</string>
+    <string name="ig_learn_a_drawing_technique" formatted="false">学习一种绘画技巧</string>
+    <string name="ig_reply_to_friends" formatted="false">回复好友</string>
+    <string name="ig_find_a_dinner_recipe" formatted="false">寻找晚餐食谱</string>
+    <string name="ig_watch_a_drawing_lesson" formatted="false">观看绘画课程</string>
+    <string name="ig_reply_to_messages" formatted="false">回复消息</string>
+    <string name="ig_research_a_new_sketchbook" formatted="false">查找新的速写本</string>
+    <string name="ig_find_drawing_references" formatted="false">寻找绘画参考</string>
+    <string name="ig_waiting_for_confirmed_target_app_foreground_time" formatted="false">等待确认目标应用的前台用时</string>
+    <string name="ig_restored_paused_resume_to_continue" formatted="false">已恢复为暂停状态，请继续使用</string>
+    <string name="ig_replaced_by_a_new_session" formatted="false">已被新的会话替代</string>
+    <string name="ig_intent_marked_completed" formatted="false">意图已标记为完成</string>
+    <string name="ig_ended_without_confirmed_completion" formatted="false">会话已结束，未确认意图完成</string>
+    <string name="ig_time_ended_intent_completion_not_confirmed" formatted="false">时间已结束，尚未确认意图完成</string>
+    <string name="ig_confirmed_target_app_foreground_time_only" formatted="false">仅计已确认的目标应用前台用时</string>
+    <string name="ig_device_time_changed_resume_manually" formatted="false">设备时间已更改，请手动继续</string>
+    <string name="ig_session_records_too_old_to_verify" formatted="false">会话记录过旧，无法核实用时</string>
+    <string name="ig_usage_access_or_system_records_unavailable" formatted="false">使用权限或系统记录不可用</string>
+    <string name="ig_intent_checks" formatted="false">意图检查</string>
+    <string name="ig_what_are_you_here_to_do_193" formatted="false">这次打开应用，你想做什么？</string>
+    <string name="ig_set_an_intention_for">为 %1$s 设定使用意图</string>
+    <string name="ig_daily_limit_reminders" formatted="false">每日限额提醒</string>
+    <string name="ig_used_daily_limit_updated_while_intentgate_is_visible_reminders">已用 %1$s · 每日限额 %2$s。数据在 IntentGate 可见时更新，提醒可能延迟。</string>
+    <string name="ig_home" formatted="false">首页</string>
+    <string name="ig_week" formatted="false">本周</string>
+    <string name="ig_month" formatted="false">本月</string>
+    <string name="ig_weekly" formatted="false">按周</string>
+    <string name="ig_monthly" formatted="false">按月</string>
+    <string name="ig_daily" formatted="false">按日</string>
+    <string name="ig_4_hour_blocks" formatted="false">每 4 小时</string>
+    <string name="ig_other" formatted="false">其他</string>
+    <string name="ig_browse_for_inspiration" formatted="false">寻找灵感</string>
+    <string name="ig_learn_something" formatted="false">学习知识</string>
+    <string name="ig_running" formatted="false">进行中</string>
+    <string name="ig_ended" formatted="false">已结束</string>
+    <string name="ig_no_recorded_completion_rate" formatted="false">尚未记录完成率</string>
+    <string name="ig_language_simplified" translatable="false" formatted="false">简体中文</string>
+    <string name="ig_date_pattern" formatted="false">M月d日</string>
+    <string name="ig_header_date_pattern" formatted="false">M月d日 EEE</string>
+    <string name="ig_sample_date" formatted="false">11月1日 周日</string>
+    <string name="ig_hour_axis">%1$s时</string>
+    <string name="ig_completion_accessibility">完成率百分之%1$s，已完成 %2$s/%3$s 个意图</string>
+    <string name="ig_notice_80" formatted="false">已达每日限额的 80%</string>
+    <string name="ig_notification_title">%1$s · %2$s</string>
+    <string name="ig_demo_notes" formatted="false">笔记（演示）</string>
+    <string name="ig_demo_reader" formatted="false">阅读器（演示）</string>
+    <string name="ig_seconds_duration">%1$s 秒</string>
+    <string name="ig_minutes_seconds">%1$s 分 %2$s 秒</string>
+    <string name="ig_set_limit" formatted="false">设置限额</string>
+    <string name="ig_hours_duration">%1$s小时</string>
+    <string name="ig_daily_remaining_title">今日总剩余使用时间</string>
+    <string name="ig_daily_budget_total">总限额 %1$s</string>
+    <string name="ig_hours_minutes">小时 : 分钟</string>
+    <string name="ig_daily_managed_apps">每日限额 · %1$s 个管理应用</string>
+    <string name="ig_daily_remaining_details">查看每日剩余与会话控制</string>
+    <string name="ig_daily_budget_remaining">今日总剩余使用时间 %1$s</string>
+    <string name="ig_no_session_started">尚未开始会话。请通过意图检查开始，会话将独立计时。</string>
+    <string name="ig_no_active_daily_limits">尚未启用每日限额</string>
+    <string name="ig_managed_app_not_installed">用量不可用 · 管理应用未安装</string>
+    <string name="ig_today_demo_unavailable">今日：— · 真实用量不可用</string>
+    <string name="ig_remove_apps">移除</string>
+    <string name="ig_remove_selected_apps">移除（%1$s）</string>
+    <string name="ig_remove_this_app">移除此应用</string>
+    <string name="ig_remove_apps_explanation">将所选应用移出 IntentGate 管理？这不会卸载应用，也不会删除已保存的意图记录。</string>
+    <string name="ig_add_selected_apps">添加（%1$s）</string>
+    <string name="ig_installed_launchable_apps">IntentGate 可查询到的已安装、可启动应用</string>
+    <string name="ig_loading_installed_apps">正在读取本机应用…</string>
+    <string name="ig_installed_apps_query_failed">无法查询本机应用，请重新打开“添加应用”后重试。</string>
+    <string name="ig_no_addable_installed_apps">没有其他可添加的可启动应用。</string>
+    <string name="ig_app_changes_failed">无法保存应用更改，请刷新列表后重试。</string>
+    <string name="ig_app_unavailable">不可用 · 已停用或无法启动</string>
+    <string name="ig_open_app">打开应用</string>
+    <string name="ig_app_launch_failed">无法打开目标应用。若已创建会话，会话已保存并暂停。请确认应用已安装且未被停用。</string>
+    <string name="ig_target_launch_failed_paused">目标应用启动失败，会话已暂停</string>
+    <string name="ig_learn_or_research">学习或查找资料</string>
+    <string name="ig_trigger_scope_notice">仅累计已确认的目标应用前台时间。后台意图确认需在设置中启用窗口检测服务，提醒不会拦截其他应用。</string>
+    <string name="ig_browse_to_get_inspiration">浏览获取灵感</string>
+    <string name="ig_continue_question">是否继续使用？</string>
+    <string name="ig_finish_use">结束使用</string>
+    <string name="ig_session_expiry_channel">会话到期提醒</string>
+    <string name="ig_session_expired_title">%1$s · 使用时间已到</string>
+    <string name="ig_session_expired_notification">是否继续使用？点击重新选择意图和时间，或结束使用。</string>
+    <string name="ig_expiry_no_automatic_session">本次会话已停止。继续使用需要重新选择意图和时长；未经确认，不会自动开始新会话。</string>
+    <string name="ig_intent_check_disabled_expiry">意图确认已关闭。你仍可结束本次会话。</string>
+    <string name="ig_continuation_unavailable">继续使用需要该应用已安装、已启用管理并开启意图确认。你也可以选择结束使用。</string>
+    <string name="ig_continuation_limit_required">继续前需要有效的今日剩余额度。请选择不超过剩余额度的时长；如需增加每日额度，请结束本次确认后，在应用页面主动调整限额。继续使用不会自动延长每日额度。</string>
+    <string name="ig_expiry_background_notice">会话仅计算已确认的目标应用前台使用时间。Android 挂起或终止 IntentGate 时，后台提醒可能延迟或无法发送。重新打开 IntentGate 可核对已保存记录。</string>
+    <string name="ig_finish_exit_guidance">会话已结束。你可以留在 IntentGate 或返回手机桌面。IntentGate 无法强制关闭其他应用。</string>
+    <string name="ig_return_to_intentgate">返回 IntentGate</string>
+    <string name="ig_go_to_launcher">返回手机桌面</string>
+    <string name="ig_choose_managed_apps_title">选择管理应用</string>
+    <string name="ig_picker_usage_hint">开启使用情况访问权限后可查看今日使用时长。你仍可选择并添加应用。</string>
+    <string name="ig_open_usage_access">打开使用情况访问设置</string>
+    <string name="ig_retry_app_query">重试</string>
+    <string name="ig_picker_time_today">今日 · %1$s</string>
+    <string name="ig_daily_time_units">%1$d小时%2$02d分</string>
+    <string name="ig_no_real_intentions">暂无意图记录。请从应用页开始一次会话。</string>
+    <string name="ig_intent_history">意图记录</string>
+    <string name="ig_intent_started_at">开始于 %1$s</string>
+    <string name="ig_intent_ended_at">结束于 %1$s</string>
+    <string name="ig_save_app_check_before_opening">请先保存设置，再打开此应用。</string>
+    <string name="ig_expiry_overlay_permission">会话到期悬浮窗</string>
+    <string name="ig_overlay_settings_unavailable">无法打开此设备的悬浮窗权限设置。会话到期仍可通过通知提醒。</string>
+    <string name="ig_desktop_intent_check">后台到期提醒和意图确认</string>
+    <string name="ig_desktop_intent_check_description">监听窗口切换，为受管理应用显示意图确认并复核会话是否到期。</string>
+    <string name="ig_desktop_window_disclosure">IntentGate 使用无障碍服务观察前台窗口切换和应用包名，包括何时离开受管理的应用。服务结合 Android 使用记录，在后台显示 IntentGate 自己的意图确认和到期弹窗。在到期弹窗点击结束使用后，应用会返回手机桌面。\n\n服务不会保存原始窗口事件，也不会读取屏幕文字、消息或密码。意图确认请求和已确认的会话保存在本机，本版本的系统备份和设备迁移规则会排除这些数据。你可以在 Android 系统设置中停用服务。</string>
+    <string name="ig_desktop_window_agree">同意并打开设置</string>
+    <string name="ig_desktop_settings_unavailable">无法打开 Android 无障碍设置。</string>
+    <string name="ig_session_expiry_banner_channel">会话到期横幅</string>
+    <string name="ig_finish_return_home_manually">会话已结束，请手动返回手机桌面。</string>
+    <string name="ig_stats_view_more">查看更多</string>
+    <string name="ig_stats_all_apps_scope">显示系统可提供记录的已安装应用；历史数据可能不完整。</string>
+    <string name="ig_stats_select_date">选择日期</string>
+    <string name="ig_intent_session_count">%1$d 次</string>
+    <string name="ig_stats_view_records">查看记录</string>
+    <string name="ig_stats_date_picker_failed">无法打开日期选择器，请重试。</string>
+</resources>

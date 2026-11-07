@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">IntentGate</string>
+    <string name="ig_apps" formatted="false">Apps</string>
+    <string name="ig_managed_paused">%1$s managed · %2$s paused</string>
+    <string name="ig_search_your_apps" formatted="false">Search your apps</string>
+    <string name="ig_your_apps" formatted="false">Your apps</string>
+    <string name="ig_today" formatted="false">Today</string>
+    <string name="ig_no_apps_added_yet" formatted="false">No managed apps added yet</string>
+    <string name="ig_no_matching_apps" formatted="false">No matching apps</string>
+    <string name="ig_choose_an_app_to_manage" formatted="false">Choose an app to manage.</string>
+    <string name="ig_try_a_different_app_name" formatted="false">Try a different app name.</string>
+    <string name="ig_add_app" formatted="false">Add app</string>
+    <string name="ig_tap_an_app_to_edit_its_daily_limit_and_intent_checks" formatted="false">Tap an app to edit its daily limit\nand Intent checks.</string>
+    <string name="ig_not_installed" formatted="false">Not installed</string>
+    <string name="ig_min_today">%1$s min today</string>
+    <string name="ig_usage_unavailable" formatted="false">Usage unavailable</string>
+    <string name="ig_managed" formatted="false">Managed</string>
+    <string name="ig_paused" formatted="false">Paused</string>
+    <string name="ig_manage">Manage %1$s</string>
+    <string name="ig_app_details" formatted="false">App details</string>
+    <string name="ig_management" formatted="false">Management</string>
+    <string name="ig_app_management" formatted="false">App management</string>
+    <string name="ig_pause_or_resume_this_app" formatted="false">Pause or resume this app.</string>
+    <string name="ig_daily_limit" formatted="false">Daily limit</string>
+    <string name="ig_min">%1$s min</string>
+    <string name="ig_today_total_m_extension">Today: %1$s total · +%2$sm extension</string>
+    <string name="ig_across_all_sessions_today" formatted="false">Across all sessions today.</string>
+    <string name="ig_custom" formatted="false">Custom</string>
+    <string name="ig_intent_check" formatted="false">Intent check</string>
+    <string name="ig_ask_for_a_purpose_before_each_session" formatted="false">Ask for a purpose before\neach session.</string>
+    <string name="ig_changes_apply_to_future_sessions" formatted="false">Changes apply to future sessions.</string>
+    <string name="ig_save_changes" formatted="false">Save changes</string>
+    <string name="ig_view_usage" formatted="false">View usage</string>
+    <string name="ig_extend_today" formatted="false">Extend today</string>
+    <string name="ig_unable_to_extend_refresh_usage_access_and_try_again" formatted="false">Unable to extend. Refresh Usage Access and try again.</string>
+    <string name="ig_today_33">%1$s · Today</string>
+    <string name="ig_daily_limit_extensions_apply_today_only">%1$s · Daily limit %2$s. Extensions apply today only.</string>
+    <string name="ig_no_real_limit_estimate_is_available" formatted="false">No real limit estimate is available.</string>
+    <string name="ig_android_foreground_usage_only_reminders_may_be_delayed_while_i" formatted="false">Android foreground usage only. Reminders may be delayed while IntentGate is in the background.</string>
+    <string name="ig_close" formatted="false">Close</string>
+    <string name="ig_daily_limit_resets_at_midnight" formatted="false">Daily limit resets at midnight.\n</string>
+    <string name="ig_sample_usage_shown_for_design_review" formatted="false">Sample usage shown for design review.</string>
+    <string name="ig_only_foreground_usage_is_counted" formatted="false">Only foreground usage is counted.</string>
+    <string name="ig_known_app_catalog" formatted="false">Known app catalog</string>
+    <string name="ig_search_available_apps" formatted="false">Search available apps</string>
+    <string name="ig_all_known_apps_are_already_added" formatted="false">All known apps are already added.</string>
+    <string name="ig_no_matching_apps_44" formatted="false">No matching apps.</string>
+    <string name="ig_minutes" formatted="false">Minutes</string>
+    <string name="ig_choose_1_1440_minutes" formatted="false">Choose 1–1440 minutes.</string>
+    <string name="ig_cancel" formatted="false">Cancel</string>
+    <string name="ig_open_details">Open %1$s details</string>
+    <string name="ig_back_to_apps" formatted="false">Back to Apps</string>
+    <string name="ig_edit_daily_limit" formatted="false">Edit daily limit</string>
+    <string name="ig_extend" formatted="false">Extend</string>
+    <string name="ig_clear_search" formatted="false">Clear search</string>
+    <string name="ig_add">Add %1$s</string>
+    <string name="ig_intentgate" translatable="false" formatted="false">IntentGate</string>
+    <string name="ig_simulated_event_ui_test" formatted="false">Simulated event · UI test</string>
+    <string name="ig_a_moment_of_intention" formatted="false">A moment of intention</string>
+    <string name="ig_what_are_you_here_to_do" formatted="false">What are you\nhere to do?</string>
+    <string name="ig_choose_a_purpose_before_you_begin" formatted="false">Choose a purpose before you begin.</string>
+    <string name="ig_your_purpose" formatted="false">Your purpose</string>
+    <string name="ig_how_much_time_do_you_need" formatted="false">How much time do you need?</string>
+    <string name="ig_minutes_1_1440" formatted="false">Minutes · 1–1440</string>
+    <string name="ig_today_remaining_of">Today: %1$s remaining of %2$s</string>
+    <string name="ig_start_session" formatted="false">Start session</string>
+    <string name="ig_unable_to_start_check_usage_access_and_app_management_then_try" formatted="false">Unable to start. Check Usage Access and app management, then try again.</string>
+    <string name="ig_enable_check_notifications" formatted="false">Enable check notifications</string>
+    <string name="ig_only_confirmed_target_app_foreground_time_counts_background_de" formatted="false">Only confirmed target-app foreground time counts. Background detection is not continuous.</string>
+    <string name="ig_session_ended" formatted="false">Session ended</string>
+    <string name="ig_time_s_up" formatted="false">Time’s up</string>
+    <string name="ig_session_controls" formatted="false">Session controls</string>
+    <string name="ig_youtube_drawing_lesson" formatted="false">YouTube · Drawing lesson</string>
+    <string name="ig_remaining">%1$s remaining</string>
+    <string name="ig_this_preview_uses_a_simulated_target_app_session_it_pauses_whe" formatted="false">This preview uses a simulated target-app session. It pauses when IntentGate leaves the foreground. Real target-app tracking will be connected later.</string>
+    <string name="ig_pause" formatted="false">Pause</string>
+    <string name="ig_continue" formatted="false">Continue</string>
+    <string name="ig_end_session" formatted="false">End session</string>
+    <string name="ig_mark_intent_completed" formatted="false">Mark Intent completed</string>
+    <string name="ig_start_a_new_30_minute_session" formatted="false">Start a new 30-minute session</string>
+    <string name="ig_done" formatted="false">Done</string>
+    <string name="ig_demo_intent_record" formatted="false">Demo Intent record</string>
+    <string name="ig_intent_foreground_use" formatted="false">Intent foreground use</string>
+    <string name="ig_youtube_drawing_lesson_demo" formatted="false">YouTube · Drawing lesson · Demo</string>
+    <string name="ig_today_sessions">Today: %1$s · %2$s sessions</string>
+    <string name="ig_today_83">Today: %1$s · %2$s</string>
+    <string name="ig_intent_sessions">%1$s Intent sessions</string>
+    <string name="ig_intent_sessions_85" formatted="false">Intent sessions: —</string>
+    <string name="ig_settings_usage_access" formatted="false"> · Settings &gt; Usage access</string>
+    <string name="ig_paused_foreground_time_only" formatted="false">Paused · Foreground time only</string>
+    <string name="ig_foreground_time_only" formatted="false">Foreground time only</string>
+    <string name="ig_today_s_intentions" formatted="false">Today’s intentions</string>
+    <string name="ig_view_all" formatted="false">View all</string>
+    <string name="ig_demo_intent_records_latest_3" formatted="false">Demo Intent records · Latest 3</string>
+    <string name="ig_latest_3_sessions" formatted="false">Latest 3 sessions</string>
+    <string name="ig_remaining_93" formatted="false">Remaining</string>
+    <string name="ig_of_min">of %1$s min</string>
+    <string name="ig_demo" formatted="false"> · Demo</string>
+    <string name="ig_demo_intent_records" formatted="false">Demo Intent records</string>
+    <string name="ig_this_page_is_coming_next" formatted="false">This page is coming next.</string>
+    <string name="ig_back_to_home" formatted="false">Back to Home</string>
+    <string name="ig_view_all_intentions" formatted="false">View all intentions</string>
+    <string name="ig_open_session_controls" formatted="false">Open session controls</string>
+    <string name="ig_remaining_of_minutes">%1$s. %2$s remaining of %3$s minutes</string>
+    <string name="ig_settings" formatted="false">Settings</string>
+    <string name="ig_your_preferences_on_this_device" formatted="false">Your preferences, on this device.</string>
+    <string name="ig_preferences" formatted="false">Preferences</string>
+    <string name="ig_notifications" formatted="false">Notifications</string>
+    <string name="ig_daily_reminders" formatted="false">Daily reminders</string>
+    <string name="ig_dark_mode" formatted="false">Dark mode</string>
+    <string name="ig_coming_soon" formatted="false">Coming soon</string>
+    <string name="ig_language" formatted="false">Language</string>
+    <string name="ig_english" translatable="false" formatted="false">English</string>
+    <string name="ig_focus_settings" formatted="false">Focus settings</string>
+    <string name="ig_default_daily_limit" formatted="false">Default daily limit</string>
+    <string name="ig_intent_check_enabled" formatted="false">Intent check enabled</string>
+    <string name="ig_strict_mode" formatted="false">Strict mode</string>
+    <string name="ig_break_allowance" formatted="false">Break allowance</string>
+    <string name="ig_permissions_data" formatted="false">Permissions &amp; data</string>
+    <string name="ig_usage_access" formatted="false">Usage access</string>
+    <string name="ig_connected" formatted="false">Connected</string>
+    <string name="ig_notification_permission" formatted="false">Notification permission</string>
+    <string name="ig_allowed" formatted="false">Allowed</string>
+    <string name="ig_not_granted" formatted="false">Not granted</string>
+    <string name="ig_data_source" formatted="false">Data source</string>
+    <string name="ig_demo_data" formatted="false">Demo data</string>
+    <string name="ig_android_usagestats" formatted="false">Android UsageStats</string>
+    <string name="ig_export_data" formatted="false">Export data</string>
+    <string name="ig_about" formatted="false">About</string>
+    <string name="ig_app_version" formatted="false">App version</string>
+    <string name="ig_privacy_policy" formatted="false">Privacy policy</string>
+    <string name="ig_help_feedback" formatted="false">Help / Feedback</string>
+    <string name="ig_daily_limit_reminders_use_android_foreground_usage_and_may_be_" formatted="false">Daily limit reminders use Android foreground usage and may be delayed in the background. Strict mode and daily scheduling remain local preferences.</string>
+    <string name="ig_english_is_currently_available_more_languages_are_coming_soon" formatted="false">English is currently available. More languages are coming soon.</string>
+    <string name="ig_export_is_coming_soon_system_usage_export_is_not_implemented_y" formatted="false">Export is coming soon. System usage export is not implemented yet.</string>
+    <string name="ig_the_full_privacy_policy_is_coming_soon_preferences_stay_local_" formatted="false">Usage Access reads Android app usage records for statistics, limits, and session timing. Turning it off removes system usage from stats and suspends verified timing.\n\nAccessibility detects app switches, shows background Intent Check and expiry prompts, and can return to Home when you tap Finish. Turning it off disables that detection and the accessibility overlay.\n\nDisplay over other apps provides an expiry prompt when the accessibility overlay is unavailable. Without either overlay, expiry can use a notification. Notifications deliver Intent Check, expiry, and limit reminders. Turning notifications off stops those alerts.\n\nManaged apps, intentions you enter, sessions, limits, and consent are stored locally. Only the language preference is eligible for Android cloud backup and device transfer under this version’s rules.</string>
+    <string name="ig_usage_settings_unavailable" formatted="false">Usage settings unavailable</string>
+    <string name="ig_no_system_usage_access_settings_screen_is_available_on_this_de" formatted="false">No system Usage Access settings screen is available on this device.</string>
+    <string name="ig_help_and_feedback_are_coming_soon_no_message_will_be_sent_from" formatted="false">Help and feedback are coming soon. No message will be sent from this demo.</string>
+    <string name="ig_stats" formatted="false">Stats</string>
+    <string name="ig_usage_overview" formatted="false">Usage overview</string>
+    <string name="ig_sessions">Sessions · %1$s</string>
+    <string name="ig_intent_sessions_not_tracked" formatted="false">Intent sessions · Not tracked</string>
+    <string name="ig_days_available"> · %1$s/%2$s days available</string>
+    <string name="ig_usage_trends" formatted="false">Usage trends</string>
+    <string name="ig_m">%1$sm</string>
+    <string name="ig_intent_insights" formatted="false">Intent insights</string>
+    <string name="ig_intents_completed" formatted="false">Intents completed</string>
+    <string name="ig_completion_not_recorded" formatted="false">Completion not recorded</string>
+    <string name="ig_unfinished_active">%1$s unfinished · %2$s active</string>
+    <string name="ig_requires_explicit_session_outcomes" formatted="false">Requires explicit session outcomes</string>
+    <string name="ig_without_intent">%1$s without Intent</string>
+    <string name="ig_app_usage_breakdown" formatted="false">App usage breakdown</string>
+    <string name="ig_no_usage_recorded" formatted="false">No usage recorded</string>
+    <string name="ig_unavailable" formatted="false">unavailable</string>
+    <string name="ig_intent_completion" formatted="false">Intent completion</string>
+    <string name="ig_app_usage_distribution" formatted="false">App usage distribution</string>
+    <string name="ig_android_data" formatted="false">Android data</string>
+    <string name="ig_access_needed" formatted="false">Access needed</string>
+    <string name="ig_unlock_device" formatted="false">Unlock device</string>
+    <string name="ig_no_system_records" formatted="false">No system records</string>
+    <string name="ig_loading_usage" formatted="false">Loading usage</string>
+    <string name="ig_h_m">%1$sh %2$sm</string>
+    <string name="ig_demo_data_no_real_limit_status" formatted="false">Demo data · no real limit status</string>
+    <string name="ig_usage_access_required" formatted="false">Usage access required</string>
+    <string name="ig_refreshing_today_s_usage" formatted="false">Refreshing today\'s usage</string>
+    <string name="ig_limit_reached" formatted="false">Limit reached</string>
+    <string name="ig_used_left">%1$s used · %2$s left · %3$s%%</string>
+    <string name="ig_0m" formatted="false">0m</string>
+    <string name="ig_s">%1$ss</string>
+    <string name="ig_daily_remaining_time_is_unavailable_no_real_usage_estimate_can" formatted="false">Daily remaining time is unavailable; no real usage estimate can be made.</string>
+    <string name="ig_selected_session_exceeds_today_s_remaining_limit_you_may_adjus">Selected session exceeds today\'s remaining limit (%1$s). You may adjust or extend the limit; starting does not extend it.</string>
+    <string name="ig_no_selected_apps_installed" formatted="false">No selected apps installed</string>
+    <string name="ig_limited_system_history" formatted="false">Limited system history</string>
+    <string name="ig_selected_apps_android_foreground_events" formatted="false">Selected apps · Android foreground events</string>
+    <string name="ig_learn_a_drawing_technique" formatted="false">Learn a drawing technique</string>
+    <string name="ig_reply_to_friends" formatted="false">Reply to friends</string>
+    <string name="ig_find_a_dinner_recipe" formatted="false">Find a dinner recipe</string>
+    <string name="ig_watch_a_drawing_lesson" formatted="false">Watch a drawing lesson</string>
+    <string name="ig_reply_to_messages" formatted="false">Reply to messages</string>
+    <string name="ig_research_a_new_sketchbook" formatted="false">Research a new sketchbook</string>
+    <string name="ig_find_drawing_references" formatted="false">Find drawing references</string>
+    <string name="ig_waiting_for_confirmed_target_app_foreground_time" formatted="false">Waiting for confirmed target-app foreground time</string>
+    <string name="ig_restored_paused_resume_to_continue" formatted="false">Restored paused; resume to continue</string>
+    <string name="ig_replaced_by_a_new_session" formatted="false">Replaced by a new session</string>
+    <string name="ig_intent_marked_completed" formatted="false">Intent marked completed</string>
+    <string name="ig_ended_without_confirmed_completion" formatted="false">Ended without confirmed completion</string>
+    <string name="ig_time_ended_intent_completion_not_confirmed" formatted="false">Time ended; Intent completion not confirmed</string>
+    <string name="ig_confirmed_target_app_foreground_time_only" formatted="false">Confirmed target-app foreground time only</string>
+    <string name="ig_device_time_changed_resume_manually" formatted="false">Device time changed; resume manually</string>
+    <string name="ig_session_records_too_old_to_verify" formatted="false">Session records too old to verify</string>
+    <string name="ig_usage_access_or_system_records_unavailable" formatted="false">Usage access or system records unavailable</string>
+    <string name="ig_intent_checks" formatted="false">Intent checks</string>
+    <string name="ig_what_are_you_here_to_do_193" formatted="false">What are you here to do?</string>
+    <string name="ig_set_an_intention_for">Set an intention for %1$s</string>
+    <string name="ig_daily_limit_reminders" formatted="false">Daily limit reminders</string>
+    <string name="ig_used_daily_limit_updated_while_intentgate_is_visible_reminders">%1$s used · %2$s daily limit. Updated while IntentGate is visible; reminders may be delayed.</string>
+    <string name="ig_home" formatted="false">Home</string>
+    <string name="ig_week" formatted="false">Week</string>
+    <string name="ig_month" formatted="false">Month</string>
+    <string name="ig_weekly" formatted="false">Weekly</string>
+    <string name="ig_monthly" formatted="false">Monthly</string>
+    <string name="ig_daily" formatted="false">Daily</string>
+    <string name="ig_4_hour_blocks" formatted="false">4-hour blocks</string>
+    <string name="ig_other" formatted="false">Other</string>
+    <string name="ig_browse_for_inspiration" formatted="false">Browse for inspiration</string>
+    <string name="ig_learn_something" formatted="false">Learn something</string>
+    <string name="ig_running" formatted="false">Running</string>
+    <string name="ig_ended" formatted="false">Ended</string>
+    <string name="ig_no_recorded_completion_rate" formatted="false">No recorded completion rate</string>
+    <string name="ig_language_simplified" translatable="false" formatted="false">简体中文</string>
+    <string name="ig_date_pattern" formatted="false">d MMM</string>
+    <string name="ig_header_date_pattern" formatted="false">EEE, d MMM</string>
+    <string name="ig_sample_date" formatted="false">Sun, 1 Nov</string>
+    <string name="ig_hour_axis">%1$sh</string>
+    <string name="ig_completion_accessibility">%1$s percent, %2$s of %3$s Intents completed</string>
+    <string name="ig_notice_80" formatted="false">80% of daily limit</string>
+    <string name="ig_notification_title">%1$s · %2$s</string>
+    <string name="ig_demo_notes" formatted="false">Notes (demo)</string>
+    <string name="ig_demo_reader" formatted="false">Reader (demo)</string>
+    <string name="ig_seconds_duration">%1$s sec</string>
+    <string name="ig_minutes_seconds">%1$s min %2$s sec</string>
+    <string name="ig_set_limit" formatted="false">Set limit</string>
+    <string name="ig_hours_duration">%1$sh</string>
+    <string name="ig_daily_remaining_title">Total time left today</string>
+    <string name="ig_daily_budget_total">%1$s total limit</string>
+    <string name="ig_hours_minutes">Hours : minutes</string>
+    <string name="ig_daily_managed_apps">Daily limits · %1$s managed apps</string>
+    <string name="ig_daily_remaining_details">View daily allowance and session controls</string>
+    <string name="ig_daily_budget_remaining">%1$s total time left today</string>
+    <string name="ig_no_session_started">No session started. Start one from Intent Check to track its time separately.</string>
+    <string name="ig_no_active_daily_limits">No active daily limits</string>
+    <string name="ig_managed_app_not_installed">Usage unavailable · managed app not installed</string>
+    <string name="ig_today_demo_unavailable">Today: — · Real usage unavailable</string>
+    <string name="ig_remove_apps">Remove</string>
+    <string name="ig_remove_selected_apps">Remove (%1$s)</string>
+    <string name="ig_remove_this_app">Remove app</string>
+    <string name="ig_remove_apps_explanation">Remove the selected apps from IntentGate management? This does not uninstall them or delete saved Intent records.</string>
+    <string name="ig_add_selected_apps">Add (%1$s)</string>
+    <string name="ig_installed_launchable_apps">Installed, launchable apps visible to IntentGate</string>
+    <string name="ig_loading_installed_apps">Loading installed apps…</string>
+    <string name="ig_installed_apps_query_failed">Unable to query installed apps. Reopen Add app to try again.</string>
+    <string name="ig_no_addable_installed_apps">No other launchable apps are available to add.</string>
+    <string name="ig_app_changes_failed">Unable to save app changes. Refresh the list and try again.</string>
+    <string name="ig_app_unavailable">Unavailable · disabled or not launchable</string>
+    <string name="ig_open_app">Open app</string>
+    <string name="ig_app_launch_failed">The app could not be opened. If a session was created, it is saved and paused. Check that the app is installed and enabled.</string>
+    <string name="ig_target_launch_failed_paused">Target app launch failed; session paused</string>
+    <string name="ig_learn_or_research">Learn or research</string>
+    <string name="ig_trigger_scope_notice">Only confirmed target-app foreground time counts. Background Intent Check requires enabling the window service in Settings. Reminders do not block other apps.</string>
+    <string name="ig_browse_to_get_inspiration">Browse for inspiration</string>
+    <string name="ig_continue_question">Do you want to continue?</string>
+    <string name="ig_finish_use">Finish</string>
+    <string name="ig_session_expiry_channel">Session ended reminders</string>
+    <string name="ig_session_expired_title">%1$s · Time is up</string>
+    <string name="ig_session_expired_notification">Do you want to continue? Tap to choose a new intention and time, or finish.</string>
+    <string name="ig_expiry_no_automatic_session">Your session has stopped. Continue requires a new intention and duration. No new session starts without your confirmation.</string>
+    <string name="ig_intent_check_disabled_expiry">Intent Check is off. You can finish this session.</string>
+    <string name="ig_continuation_unavailable">This app must be installed, managed, and have Intent Check enabled to continue. You can finish instead.</string>
+    <string name="ig_continuation_limit_required">A verified daily balance is required. Choose a duration within the remaining time. To add daily allowance, finish this check and explicitly adjust the limit in Apps. Continuing never extends it automatically.</string>
+    <string name="ig_expiry_background_notice">Session time counts confirmed target-app foreground use only. Background reminders may be delayed or unavailable if Android suspends or stops IntentGate. Reopen IntentGate to verify saved records.</string>
+    <string name="ig_finish_exit_guidance">The session is ended. You can stay in IntentGate or go to your phone home screen. IntentGate cannot force another app to close.</string>
+    <string name="ig_return_to_intentgate">Return to IntentGate</string>
+    <string name="ig_go_to_launcher">Go to home screen</string>
+    <string name="ig_choose_managed_apps_title">Choose apps to manage</string>
+    <string name="ig_picker_usage_hint">Allow Usage Access to show time used today. You can still select and add apps.</string>
+    <string name="ig_open_usage_access">Open Usage Access</string>
+    <string name="ig_retry_app_query">Retry</string>
+    <string name="ig_picker_time_today">Today · %1$s</string>
+    <string name="ig_daily_time_units">%1$dh %2$02dm</string>
+    <string name="ig_no_real_intentions">No intention records yet. Start a session from Apps to add one.</string>
+    <string name="ig_intent_history">Intention history</string>
+    <string name="ig_intent_started_at">Started %1$s</string>
+    <string name="ig_intent_ended_at">Ended %1$s</string>
+    <string name="ig_save_app_check_before_opening">Save your changes before opening this app.</string>
+    <string name="ig_expiry_overlay_permission">Session expiry overlay</string>
+    <string name="ig_overlay_settings_unavailable">This device could not open overlay permission settings. Session expiry can still use notifications.</string>
+    <string name="ig_desktop_intent_check">Background session reminders and Intent Check</string>
+    <string name="ig_desktop_intent_check_description">Use window switch events to show Intent Check and verify session expiry for managed apps.</string>
+    <string name="ig_desktop_window_disclosure">IntentGate uses Accessibility to observe foreground window changes and app package names, including when you leave a managed app. It uses this signal with Android usage records to show its own Intent Check and expiry prompts in the background. Tapping Finish on the expiry overlay returns to the Home screen.\n\nThe service discards raw window events and does not read screen text, messages, or passwords. Intent Check requests and confirmed sessions are stored locally and excluded from this version’s backup and transfer rules. You can turn off the service in Android settings.</string>
+    <string name="ig_desktop_window_agree">Agree and open settings</string>
+    <string name="ig_desktop_settings_unavailable">Android accessibility settings could not be opened.</string>
+    <string name="ig_session_expiry_banner_channel">Session expiry banners</string>
+    <string name="ig_finish_return_home_manually">Session ended. Please return to the Home screen manually.</string>
+    <string name="ig_stats_view_more">View more</string>
+    <string name="ig_stats_all_apps_scope">Installed apps with available Android records. System history may be incomplete.</string>
+    <string name="ig_stats_select_date">Select date</string>
+    <string name="ig_intent_session_count">%1$d sessions</string>
+    <string name="ig_stats_view_records">View records</string>
+    <string name="ig_stats_date_picker_failed">Unable to open the date picker. Please try again.</string>
+</resources>
